@@ -1,4 +1,0 @@
-administrator:administrator
-Rohail:2907
-teacheritp:itp
-zimal:zimal
